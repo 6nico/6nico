@@ -10,6 +10,7 @@ Business Economics student at UC San Diego. I build data projects that make supp
 |---|---|---|
 | [Supply Chain Planner](https://6nico.github.io/supply-chain-planner/) · [code](https://github.com/6nico/supply-chain-planner) | Interactive inventory planner on public US data: a demand forecast that misses by 1.9% a month, a safety stock calculator, Target's 2022 overstock and a warehouse network model. | JavaScript, forecasting, simulation |
 | [Reshop Relay](https://6nico.github.io/reshop-relay/) · [code](https://github.com/6nico/reshop-relay) | Simulator that tests whether store teams can return reshop with less labor by collecting it during trips they already make. Route optimization with Dijkstra and 2-opt, 17 passing tests. | Python, Pyodide, optimization |
+| [Crash Log Analyzer](https://6nico.github.io/crash-log-analyzer/) · [repo](https://github.com/6nico/crash-log-analyzer) | Windows app that turns confusing crash logs into a plain-English explanation and one clear next step, with personal details stripped before anything reaches the AI. | PowerShell, Windows Forms, Gemini API |
 
 #### Skills
 
